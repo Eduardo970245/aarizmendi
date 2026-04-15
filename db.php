@@ -1,7 +1,7 @@
 <?php
 
 // db.php
-
+// Prueba de commit
 function conectarDB() {
     $host = "localhost";
     $db   = "abrahamarizmendi_db";
