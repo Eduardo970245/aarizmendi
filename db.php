@@ -2,6 +2,7 @@
 
 // db.php
 // Prueba de commit
+// Prueba segundo commit
 function conectarDB() {
     $host = "localhost";
     $db   = "abrahamarizmendi_db";
